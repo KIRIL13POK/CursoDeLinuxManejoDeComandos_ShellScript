@@ -8,4 +8,5 @@ Seccición 2: ¿Qué es Linux?
 Sección 4: Shell de Linux
 
 * [01. ¿Qué es la Shell?](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/01_shell.md)
+* [02. Comandos de la shell de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/02_Comandos_de_la_shell_de_Linux.md)
 
