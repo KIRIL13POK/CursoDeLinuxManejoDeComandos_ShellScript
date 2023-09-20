@@ -5,4 +5,7 @@
 Seccición 2: ¿Qué es Linux?
 * [Introducción a Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/introduccionAlLinux.md)
   
+Sección 4: Shell de Linux
+
+* [01. ¿Qué es la Shell?](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/01_shell.md)
 
