@@ -12,4 +12,5 @@ Sección 4: Shell de Linux
 * [03. Información de los comandos: help, man, info, whatis, apropos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/03_InformacionDeLosComandos_help_man_info_whatis_apropos.md)
 * [04. Manejo de comandos y expresiones lógicas](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/04_ManejoDeComandosYExpresionesL%C3%B3gicas.md)
 * [05. Listado de atajos para la Shell de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/05_Atajos_Shell_Linux.md)
+* [ 06. Creando nuestro propio comando alias](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/06_Creando_Alias.md)
 
