@@ -26,3 +26,48 @@
 ![ls --help](/img/403_ls--help.png)
 
 Es la forma correcta de solicitar ayuda o información detallada sobre el comando ls, mientras que ls help no está destinado a proporcionar información de ayuda y probablemente no producirá el resultado deseado.
+
+### `man ls`
+
+![man ls ](/img/403_man-ls.png)
+
+Cuando ejecutas `man ls` , se abre una página de manual interactiva en la que puedes desplazarte hacia arriba y hacia abajo para leer la documentación completa. Para salir del manual, generalmente se utiliza la tecla "q" en tu teclado.
+
+### `whatis ls` 
+
+![whatis](/img/403_whatis.png)
+
+Se utiliza para obtener una descripción breve y concisa del comando ls. Proporciona una breve definición o resumen de lo que hace el comando ls sin entrar en detalles exhaustivos.
+No proporcionará descripciones para todos los comandos, especialmente para comandos muy básicos y fundamentales como `cd`
+***
+*whatis es útil para obtener descripciones breves de algunos comandos, pero no es la mejor opción para todos los comandos, especialmente para los comandos básicos y ampliamente utilizados.*
+***
+
+### `info ls`
+
+![info ls](/img/403-info-ls.png)
+
+Esta interfaz de documentación **info** es especialmente útil cuando necesitas información más detallada sobre un comando o tema específico y deseas explorar diferentes secciones de la documentación relacionada.
+
+`info ls`te brinda acceso a una documentación más detallada y extensa sobre el comando ls y sus funciones relacionadas en comparación con el comando man.
+
+![info ls](/img/403-info-ls-enlaces.png)
+
+Un punto importante a destacar sobre el sistema de documentación "info". Una de sus características útiles es que incluye enlaces que te permiten navegar entre diferentes secciones de la documentación de manera interactiva. Estos enlaces te facilitan la exploración de temas relacionados y te permiten acceder a información específica de manera más eficiente.
+
+### `apropos directory`
+
+![apropos directoty](/img/403_apropos-directory.png)
+
+Busca comandos y temas relacionados en función de la palabra clave "directory". Este comando es útil cuando deseas encontrar comandos o información relacionada con un término específico o una tarea que deseas realizar.
+
+En resumen, apropos es una herramienta útil para buscar comandos y temas relacionados en función de palabras clave, lo que facilita la búsqueda de comandos específicos o información sobre tareas particulares.
+
+### `apropos "list directory`
+
+![apropos directoty](/img/403_apropos-list-directory.png)
+
+Busca comandos y temas relacionados en función de la frase "list directory".
+***
+**Es importante destacar que al utilizar comandos como apropos para buscar frases compuestas por más de una palabra en la documentación, es fundamental encerrar la frase entre comillas dobles (" "). Esto se debe a que las comillas dobles indican a la shell que la entrada entre comillas debe tratarse como una sola unidad o argumento, en lugar de ser dividida en múltiples palabras separadas. Este enfoque garantiza que la shell interprete correctamente la entrada y proporcione resultados precisos en la búsqueda.**
+***
