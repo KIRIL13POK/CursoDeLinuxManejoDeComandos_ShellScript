@@ -10,4 +10,5 @@ Sección 4: Shell de Linux
 * [01. ¿Qué es la Shell?](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/01_shell.md)
 * [02. Comandos de la shell de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/02_Comandos_de_la_shell_de_Linux.md)
 * [03. Información de los comandos: help, man, info, whatis, apropos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/03_InformacionDeLosComandos_help_man_info_whatis_apropos.md)
+* [04. Manejo de comandos y expresiones lógicas](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/04_ManejoDeComandosYExpresionesL%C3%B3gicas.md)
 
