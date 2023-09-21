@@ -10,8 +10,6 @@ En resumen, cuando se dice que un comando "is hashed" en la shell de Linux, sign
 
 ![hash](/img/407_hash.png)
 
-recuencia de uso en tu sistema. Aquí tienes una interpretación de esos resultados:
-
 * **/usr/bin/ls**: El comando "ls" se ha ejecutado 2 veces en tu sistema. Este comando se utiliza para listar los archivos y directorios en un directorio.
 
 * **/usr/bin/clear**: El comando "clear" también se ha ejecutado 2 veces en tu sistema. Este comando se utiliza para limpiar la pantalla de la terminal, eliminando el contenido anterior y dejando solo la línea de comandos visible.
