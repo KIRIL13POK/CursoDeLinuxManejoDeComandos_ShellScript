@@ -15,3 +15,7 @@ Sección 4: Shell de Linux
 * [ 06. Creando nuestro propio comando alias](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/06_Creando_Alias.md)
 * [ 07. ¿Qué significa "is hashed"? ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/07_Qu%C3%A9%20significa_is%20hashed.md)
 
+Seccioón 5: Manejo de sistema de ficheros de Linux
+
+* [01. El sistema de ficheros de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/01_El_sistema_de_fichero_Linux.md)
+
