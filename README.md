@@ -18,4 +18,6 @@ Sección 4: Shell de Linux
 Seccioón 5: Manejo de sistema de ficheros de Linux
 
 * [01. El sistema de ficheros de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/01_El_sistema_de_fichero_Linux.md)
+* [o2.  Navegación: Rutas relativas y absolutas](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/02_Navegacion_tipo_de_rutas.md)
+
 
