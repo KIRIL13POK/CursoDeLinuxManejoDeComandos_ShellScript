@@ -21,6 +21,7 @@ Seccioón 5: Manejo de sistema de ficheros de Linux
 * [02.  Navegación: Rutas relativas y absolutas](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/02_Navegacion_tipo_de_rutas.md)
 * [03. Ficheros en Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/03_Ficheros_en_Linux.md)
 * [04. Creación de ficheros y editores de texto](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/04_Creacion_de_ficheros-Y_editores_de_texto.md)
+* [05. Visualización de ficheros y directorios en Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/05_Visualizacion_de_ficheros_y_editores_de_texto.md)
 
 
 
