@@ -1,4 +1,4 @@
-Para esta clase con comandosque ya conocemos en la terminal vamos a crear 3 ficheros txt y una carpeta "ficheroPadre" nuevos:
+Para esta clase con comandos que ya conocemos en la terminal vamos a crear 3 ficheros txt y una carpeta "ficheroPadre":
 
 ![tres ficheros](/img/506_tres-ficheros-padre.png)
 
