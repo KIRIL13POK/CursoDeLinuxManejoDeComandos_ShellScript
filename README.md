@@ -2,7 +2,7 @@
 
 **Este curso, presentado por Santiago Hernández, proporciona una sólida introducción a Linux para principiantes y usuarios con experiencia. A lo largo de las secciones, se cubren conceptos fundamentales y avanzados, incluyendo la Shell, gestión de permisos, scripting en Bash y proyectos prácticos. Con más de 10 años de experiencia, el instructor garantiza una guía completa y accesible para dominar Linux, sin necesidad de conocimientos previos.**
 
-Seccición 2: ¿Qué es Linux?
+Sección 2: ¿Qué es Linux?
 * [Introducción a Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/introduccionAlLinux.md)
   
 Sección 4: Shell de Linux
@@ -15,7 +15,7 @@ Sección 4: Shell de Linux
 * [ 06. Creando nuestro propio comando alias](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/06_Creando_Alias.md)
 * [ 07. ¿Qué significa "is hashed"? ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_4_Shell/07_Qu%C3%A9%20significa_is%20hashed.md)
 
-Seccioón 5: Manejo de sistema de ficheros de Linux
+Sección 5: Manejo de sistema de ficheros de Linux
 
 * [01. El sistema de ficheros de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/01_El_sistema_de_fichero_Linux.md)
 * [02.  Navegación: Rutas relativas y absolutas](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/02_Navegacion_tipo_de_rutas.md)
@@ -23,6 +23,10 @@ Seccioón 5: Manejo de sistema de ficheros de Linux
 * [04. Creación de ficheros y editores de texto](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/04_Creacion_de_ficheros-Y_editores_de_texto.md)
 * [05. Visualización de ficheros y directorios en Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/05_Visualizacion_de_ficheros_y_editores_de_texto.md)
 * [06. Manipulación de ficheros y directorios en Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_5_Manejo_de_ficheros/06_Manipulacion_de_ficheros_y_directorios.md)
+
+Sección 6: Conceptos avanzados del sistema de ficheros de Linux
+
+* [01. Inodos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/01_Inodos.md)
 
 
 
