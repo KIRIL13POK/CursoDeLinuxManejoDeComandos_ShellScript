@@ -28,6 +28,7 @@ Sección 6: Conceptos avanzados del sistema de ficheros de Linux
 
 * [01. Inodos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/01_Inodos.md)
 * [ 02. Enlaces simbólicos (Soft Links)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/03_Enlaces_simbolicos_Soft_Links.md)
+* [ 03.  Enlaces duros (Hard Links)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/04_Enlaces_duros_Hard_Links.md)
 
 
 
