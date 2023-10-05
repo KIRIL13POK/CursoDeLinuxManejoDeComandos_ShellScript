@@ -1,3 +1,8 @@
+# Command substitution 
+
+Es una característica que te permite tomar la salida de un comando y usarla como entrada para otro comando. Esto es útil cuando deseas usar el resultado de un comando como argumento o entrada para otro comando sin tener que guardar la salida en un archivo temporal. En Linux, puedes realizar la "command substitution" de dos maneras: usando comillas inversas (``) o el subshell $().
+*** 
+
 ### `which`
      
 ![which](/img/608-which.png)
