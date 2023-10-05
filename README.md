@@ -33,6 +33,7 @@ Sección 6: Conceptos avanzados del sistema de ficheros de Linux
 * [05. Shell Expansions](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/07_Shell_Expansions.md)
 * [06. Command Substitution](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/08_%20Command_Substitution.md)
 * [07. Comillas en la Shell de Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/09_Comillas_en_la_Shell_de_Linux.md)
+* [08. Escapando caracteres especiales](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/10_Escapando_caracteres_especiales.md)
 
 
 
