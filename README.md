@@ -39,5 +39,4 @@ Sección 6: Conceptos avanzados del sistema de ficheros de Linux
 Sección 7: Redirecciones y pipelines
 
 * [01. I/O Redirection](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/01_I_O_Redirecton.md)
-* [02.]
-* [03.]
+* [02. Standard Output (stdout) Redirection](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/02_Standard_Output_Redirection.md)
