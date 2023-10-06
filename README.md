@@ -36,4 +36,6 @@ Sección 6: Conceptos avanzados del sistema de ficheros de Linux
 * [08. Escapando caracteres especiales](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_6_Conceptos_avanzados_del_sistema_de_ficheros_y_la_Shell_de_Linux/10_Escapando_caracteres_especiales.md)
 
 
+Sección 7: Redirecciones y pipelines
 
+* [I/O Redirection](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/01_I_O_Redirecton.md)
