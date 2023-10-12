@@ -42,3 +42,4 @@ Sección 7: Redirecciones y pipelines
 * [02. Standard Output (stdout) Redirection](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/02_Standard_Output_Redirection.md)
 * [03.  Standard Error (stderr) Redirection](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/03_Standard_Error_Redirection.md)
 * [04. El Uso de '/dev/null](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/04_dev_null.md)
+* [05. Standard Input (stdin) ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_7_Redirecciones_y_pipelines/05_Standard_Input_Redireccion.md)
