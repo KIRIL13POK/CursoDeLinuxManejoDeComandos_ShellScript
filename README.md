@@ -48,3 +48,4 @@ Sección 7: Redirecciones y pipelines
 Sección 8: Permisos y ususarios de Linux
 
 * [01. Permisos y usuarios: passwd, shadow, group](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/01_Permisos_y_usuarios.md)
+* [02. Lectura (r), Escritura (w) y Ejecución (x)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/02_Lectura_Escritura_Ejecucion.md)
