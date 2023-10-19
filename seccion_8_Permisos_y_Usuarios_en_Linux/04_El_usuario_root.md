@@ -1,6 +1,8 @@
 
 # El usuario root
 
+![root](https://diegoaltf4.com/wp-content/uploads/root-02.jpg)
+
 El usuario root en Linux es el superusuario que tiene privilegios para realizar prácticamente cualquier acción en el sistema. Es el usuario con **UID 0** y el grupo con **GID 0**, lo que lo convierte en el usuario más privilegiado y el grupo más importante en el sistema.
 
 ### `cat /etc/passwd | less`
