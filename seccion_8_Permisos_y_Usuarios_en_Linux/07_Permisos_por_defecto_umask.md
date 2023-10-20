@@ -17,7 +17,13 @@ Para mostrar la máscara de permisos actual, simplemente puedes ejecutar el coma
 
 ![umask 002](/img/807-umasl-002.png)
 
-Con una máscara de permisos **0002**, los archivos y directorios que crees tendrán permisos completos para el propietario y el grupo, pero los otros usuarios solo tendrán permisos de lectura. Esto significa que otros usuarios podrán leer el contenido de los archivos, pero no podrán modificarlos ni ejecutarlos.
+Con una máscara de permisos "0002," los archivos y directorios que crees tendrán los siguientes permisos:
+
+**Propietario**: Lectura y escritura.
+**Grupo**: Lectura y escritura.
+**Otros usuarios (el mundo)**: Solo lectura.
+
+Esta configuración significa que el propietario y el grupo tendrán permisos  para leer y modificar los archivos y directorios, mientras que los otros usuarios (el mundo) solo tendrán permisos de lectura, lo que les permite ver el contenido de los archivos, pero no modificarlos ni ejecutarlos.
 
 ### Intrpretacion de los digitos
 
@@ -28,21 +34,15 @@ Con una máscara de permisos **0002**, los archivos y directorios que crees tend
 
 Estos dígitos, cuando se establecen en un valor umask, determinan cómo se quitarán ciertos permisos de los archivos y directorios creados en el sistema. Los valores numéricos en cada dígito representan los permisos en formato octal.
 
-* **4** representa permisos de lectura, 
-* **2** representa permisos de escritura 
-* **1** representa permisos de ejecución.
-
 ### `umask 0000`
 
 ![umask 0000](/img/807-umask-000.png)
 
 Si estableces la máscara de permisos (umask) en **0000**, significa que no se quitarán permisos por defecto al crear archivos y directorios. En otras palabras, todos los permisos por defecto se mantendrán intactos al utilizar esta máscara.
 
-Los permisos por defecto típicos al crear archivos y directorios son los siguientes:
+###  Permisos por defecto
 
-* **Propietario**: Lectura, escritura y ejecución.
-* **Grupo**: Lectura y escritución.
-* **Otros usuarios (el mundo)**: Lectura y ejecución.
+Cuando se crea un archivo o directorio de un usuario en Linux se le asignan unos permisos por defecto. Para los directorios, los permisos de base son 0777 `rwxrwxrwx` y para los archivos son 0666 `rw-rw-rw` . El umask por defecto 0022 se utiliza para los usuarios regulares.
 
 ***
 **La elección de una máscara de permisos depende de los requisitos de seguridad y acceso en tu sistema. Un umask más restrictivo aumenta la seguridad limitando los permisos por defecto, pero también puede dificultar el trabajo colaborativo. Por lo tanto, la configuración adecuada de umask es una parte importante de la administración de permisos en un sistema Unix o Linux.**
