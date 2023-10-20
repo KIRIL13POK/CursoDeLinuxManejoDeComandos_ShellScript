@@ -14,7 +14,7 @@ Los símbolos para representar los permisos son los mismos que en la notación o
 * **X**: Ejecución.
 
 
-### `cmoda=r representacion_simbolica.txt  `
+### `chmod a=r representacion_simbolica.txt  `
 
 En este comando, se está otorgando permiso de lectura (r) a todos los usuarios (propietario, grupo y otros) del archivo representacion_simbolica.txt.
 
