@@ -54,3 +54,4 @@ Sección 8: Permisos y ususarios de Linux
 * [05. Modificación de permisos en octal](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/05_Modificacion_de_permisos_en_octal.md)
 * [06. La representación simbólica](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/06_Modificacion_de_permisos_simbolica.md)
 * [07. Permisos por defecto: umask](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/07_Permisos_por_defecto_umask.md)
+* [08. Setuid, Setgid, Sticky bit](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/08_Setuid_Setgid_Sticky-bit.md)
