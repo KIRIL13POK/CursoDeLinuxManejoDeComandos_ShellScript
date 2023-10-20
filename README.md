@@ -52,3 +52,4 @@ Sección 8: Permisos y ususarios de Linux
 * [03. Permisos en directorios](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/03_Permisos_en_directorios.md)
 * [04. El usuario root](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/04_El_usuario_root.md)
 * [05. Modificación de permisos en octal](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/05_Modificacion_de_permisos_en_octal.md)
+* [06. La representación simbólica](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/06_Modificacion_de_permisos_simbolica.md)
