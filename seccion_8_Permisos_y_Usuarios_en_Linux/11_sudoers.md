@@ -71,6 +71,7 @@ En resumen, este fragmento de sudoers define las reglas de acceso y privilegios 
 **5. Creación de reglas**
 
  En lugar de agregar usuarios individualmente al archivo sudoers, es más común agregar usuarios a grupos y luego permitir que un grupo tenga permisos en el archivo sudoers. Esto simplifica la administración de permisos.
+exit
 
 **6. Uso de visudo** 
 
