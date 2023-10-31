@@ -57,3 +57,4 @@ Sección 8: Permisos y ususarios de Linux
 * [08. Setuid, Setgid, Sticky bit](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/08_Setuid_Setgid_Sticky-bit.md)
 * [09. Cambio de identidad: su](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/09_Cambio_de_identidad_su.md)
 * [10. Ejecutar comandos con privilegios de otro usuario : sudo](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/10_sudo.md)
+* [11. Sudoers](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/11_sudoers.md)
