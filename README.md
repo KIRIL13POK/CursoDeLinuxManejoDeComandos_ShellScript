@@ -59,3 +59,4 @@ Sección 8: Permisos y ususarios de Linux
 * [10. Ejecutar comandos con privilegios de otro usuario : sudo](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/10_sudo.md)
 * [11. Sudoers](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/11_sudoers.md)
 * [12. Gestión usuarios y grupos: useradd, groupadd, usermod, deluser...](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_8_Permisos_y_Usuarios_en_Linux/12_Gesti%C3%B3n_usuarios_grupos-useradd_groupadd_usermod_deluser.md)
+* [13.  Cambio de propietario: chown y chgrp](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/commit/224e6428f3b5e8955cf070c764ecf32496f148ec)
