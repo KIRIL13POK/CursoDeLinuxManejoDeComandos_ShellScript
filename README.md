@@ -66,3 +66,4 @@ Sección 9: Procesos en Linux
 * [01. Procesos en Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/01_Procesos_en_Linux.md)
 * [02. Visualización estática de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/02_Visualizacion_estatica_de_procesos.md)
 * [03. Visualización dinamica de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/03_Visualizacion_dinamica_de_procesos.md)
+* [04. Interrupción de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/04_Interupcion_de_procesos.md)
