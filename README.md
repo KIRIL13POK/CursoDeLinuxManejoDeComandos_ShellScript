@@ -68,3 +68,4 @@ Sección 9: Procesos en Linux
 * [03. Visualización dinamica de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/03_Visualizacion_dinamica_de_procesos.md)
 * [04. Interrupción de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/04_Interupcion_de_procesos.md)
 * [05. Procesos en segundo plano](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/05_Procesos_en_segundo_plano.md)
+* [06. Señales (Signals)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/06_Senales-Signals.md)
