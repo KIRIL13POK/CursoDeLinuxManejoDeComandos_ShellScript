@@ -71,3 +71,4 @@ Sección 9: Procesos en Linux
 * [06. Señales (Signals)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/06_Senales-Signals.md)
 * [07. Init , servicio y demonios](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/07_Init_demonios_sevicios.md)
 * [08. La gestión de servicios](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/08_Gestion_de_sevicios.md)
+* [09. Las 6 etapas del proceso de arranque de Linux ](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/09_Las_6_etapas_de_arrnque.md)
