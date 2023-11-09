@@ -69,4 +69,5 @@ Sección 9: Procesos en Linux
 * [04. Interrupción de procesos](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/04_Interupcion_de_procesos.md)
 * [05. Procesos en segundo plano](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/05_Procesos_en_segundo_plano.md)
 * [06. Señales (Signals)](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/06_Senales-Signals.md)
-* [07. Init , servicio y demonis](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/07_Init_demonios_sevicios.md)
+* [07. Init , servicio y demonios](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/07_Init_demonios_sevicios.md)
+* [08. La gestión de servicios](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_9_Procesos_en_Linux/08_Gestion_de_sevicios.md)
