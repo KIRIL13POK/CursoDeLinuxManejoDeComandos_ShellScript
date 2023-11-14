@@ -76,3 +76,5 @@ Sección 9: Procesos en Linux
 Sección 10: Networking  en Linux
 
 * [Introducción a Networking](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/Introduccion_Networking.md)
+
+* [01. Interfaz de red](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/01_Interfaces-de-red.md)
