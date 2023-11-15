@@ -81,3 +81,4 @@ Sección 10: Networking  en Linux
 * [02. Las direcciones IP](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/02_Direcciones_IP.md)
 * [02-1. Dirección de broadcast](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/01.1_Direcion-de-broadcast.md)
 * [03. Routing](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/03_Routing.md)
+* [04. Los Sniffers](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/04_Sniffers_Wireshark-Tcpdump.md)
