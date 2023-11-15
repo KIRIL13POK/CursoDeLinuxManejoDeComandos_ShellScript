@@ -78,5 +78,6 @@ Sección 10: Networking  en Linux
 * [Introducción a Networking](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/Introduccion_Networking.md)
 
 * [01. Interfaz de red](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/01_Interfaces-de-red.md)
+* [02. Las direcciones IP](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/02_Direcciones_IP.md)
 * [02-1. Dirección de broadcast](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/01.1_Direcion-de-broadcast.md)
 * [03. Routing](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/03_Routing.md)
