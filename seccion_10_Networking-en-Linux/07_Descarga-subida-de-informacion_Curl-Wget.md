@@ -17,7 +17,7 @@
 
 2. 
  
-![firefox](/Img/1007.firefox-winrar-html.png)
+![firefox](/img/1007.firefox-winrar-html.png)
 
 
 Se muestra cómo utilizar Curl para descargar el código HTML de una página web (ejemplo de WinRAR), cómo redirigir esta salida a un archivo HTML.
