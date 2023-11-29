@@ -86,3 +86,4 @@ Sección 10: Networking  en Linux
 * [06. DHCP y DNS](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/06_DHCP-DNS.md)
 * [07.  Descarga y subida de información: Curl y Wget](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/07_Descarga-subida-de-informacion_Curl-Wget.md)
 * [08.  Conexiones remotas: SSH](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/08_Conexion-remotas_SSH.md)
+* [09. Visualización de conexiones en Linux](https://github.com/KIRIL13POK/CursoDeLinuxManejoDeComandos_ShellScript/blob/main/seccion_10_Networking-en-Linux/10_Visualizando-las-conexiones-activa_SS.md)
